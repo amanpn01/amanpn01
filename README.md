@@ -8,7 +8,7 @@ I'm a **DevOps Engineer** at **Tata Consultancy Services (TCS)** with 3 years of
 
 - 🌱 I’m constantly learning and growing my skills in DevOps, cloud computing, and automation.
 - 💼 I have a strong background in managing CI/CD pipelines, infrastructure as code, and cloud services.
-- 📫 How to reach me: [Email](aman.pn312@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman3690/)
+- 📫 How to reach me: [Email](mailto:aman.pn312@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman3690/)
 
 ## 💼 Professional Experience
 
@@ -45,6 +45,6 @@ I'm a **DevOps Engineer** at **Tata Consultancy Services (TCS)** with 3 years of
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aman.pn312@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.pn312@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman3690/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanpn01)
