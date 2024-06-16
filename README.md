@@ -1,6 +1,8 @@
-# Aman Nandgaule
+# Hi there, I'm Aman Nandgaule! 👋
 
-👋 Hi there! I'm **Aman Nandgaule**, a DevOps Engineer with 3 years of experience. I currently work at **Tata Consultancy Services (TCS)**, where I specialize in building and maintaining efficient and scalable DevOps solutions.
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet) ![Followers](https://img.shields.io/github/followers/your-github-username?style=social)
+
+I'm a **DevOps Engineer** at **Tata Consultancy Services (TCS)** with 3 years of experience. My expertise lies in building and maintaining efficient and scalable DevOps solutions.
 
 ## 🚀 About Me
 
@@ -29,12 +31,20 @@
 
 ## 🛠️ Skills
 
-- **Languages & Tools**: Python, Bash, Docker, Kubernetes, Jenkins, GitLab CI, Terraform, Ansible
-- **Cloud Platforms**: AWS, Azure, Google Cloud Platform
-- **Other Skills**: Infrastructure as Code (IaC), Continuous Integration/Continuous Deployment (CI/CD), Monitoring and Logging
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 🌐 Connect with Me
 
-- [Email](aman.pn312@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/aman3690/)
-- [GitHub](https://github.com/amanpn01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aman.pn312@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman3690/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanpn01)
